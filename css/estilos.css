@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+}
+
+nav {
+  color: black;
+}
+h1,
+h2,
+h3,
+h4 {
+  color: royalblue;
+  size: 2.5 em;
+}
+section#pagp {
+  border-radius: 5%;
+  background-color: goldenrod;
+  color: bisque;
+  height: 40em;
+  width: 40em;
+}
+
+footer.pie_de_pagina {
+  background-color: aquamarine;
+  position: relative;
+  size: 50px;
+}
+
+section.pagcontacto {
+  border-radius: 25%;
+  color: blue;
+}
+
+* {
+  margin: 10px;
+}
